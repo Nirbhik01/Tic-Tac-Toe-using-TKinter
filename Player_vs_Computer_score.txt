@@ -1,0 +1,8 @@
+Total_games_played-18
+Total_Player_wins-0
+Total_computer_wins-6
+Total_games_draw-12
+recent rounds:
+player-0
+computer-0
+tied-0
